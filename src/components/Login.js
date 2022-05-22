@@ -7,7 +7,7 @@ import { auth } from '../firebase';
 
 
 const Login = ()=> {
-
+            
     return(
         <div id = "login-page">
             <div id = "login-card">
